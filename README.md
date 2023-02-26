@@ -2,7 +2,9 @@ Simnple Chrome Extension which will send the Connection request to all users in 
 Steps for installation:
 1. https://github.com/barkenikhil02/LinkedIn-Connection-Sender-Chrome-Extension Clone the Repo or download zip and extract.
 2. In google chrome open Extension Manager or paste this is URL : chrome://extensions/
+
 ![image](https://user-images.githubusercontent.com/35214065/221397189-f7a4def2-7fb5-4f9b-b978-933e324787cf.png)
+
 3. Then turn on the Developer mode in extension manager.
 4. Click on Load unpacked, where you have to select the project folder.
 5. Select the project folder and open.
