@@ -18,6 +18,7 @@ Steps for installation:
 9. Now click on the start sending button to automatically send the conncetion requests.
 
 Note: We have provided 20 as maximum limit of invitations, so it will not exceed the daily invitation limit.
+
 Demo:-
 
 
